@@ -1,31 +1,34 @@
-# Vampire's Cookbook 🍲🧛
+# 🧛‍♂️ Vampire's Cookbook 🍲
 
-Hi! I'm **Daruselam Teha** 👋  
-I’m a high school student learning **web development**, focusing on **HTML and CSS**.  
-I enjoy building creative and interactive web projects that are both fun and educational.
+Hi! I'm **Daruselam Taha** 👋  
+I’m a high school student exploring **web development** with a focus on **HTML and CSS**.  
+I love creating **fun, interactive, and visually engaging projects** that combine learning with creativity.
 
-## About the Project
-**Vampire's Cookbook** is a creative web project showcasing **vampire-themed recipes**.  
-This project helped me practice **HTML structure, inline CSS styling, and responsive layout design** while building something visually engaging.
+## 🔮 About the Project
+**Vampire's Cookbook** is a **vampire-themed recipe web project**.  
+It’s designed to showcase my skills in **HTML structure, inline CSS styling, and responsive design** while creating an immersive and fun experience.
 
-## How to Use
+## 💻 How to Use
 1. Clone or download this repository.  
 2. Open the `index.html` file in any web browser.  
-3. Explore the recipes and design features.
+3. Explore the vampire-themed recipes and design features.
 
-## Features
-- Fully built with **HTML and inline CSS**  
-- Creative vampire-themed design  
-- Responsive layout suitable for different screen sizes  
-- Engaging and visually appealing background images  
+## ✨ Features
+- Built entirely with **HTML and inline CSS**  
+- **Vampire-inspired theme** with creative visuals  
+- **Responsive design** for all screen sizes  
+- Engaging **background images and styling**
 
-## Skills & Tools Used
+## 🛠 Skills & Tools Used
 - **HTML5** – Structuring the content  
-- **CSS (inline)** – Styling the project as taught in class  
-- **Git & GitHub** – Version control and project hosting 
+- **CSS (inline)** – Styling and layout design  
+- **Git & GitHub** – Version control and hosting
 
-## Contact / About Me
-Feel free to connect with me via GitHub!  
-I’m always learning and improving my web development skills, and I plan to build more creative projects in the future.  
+## 📬 Contact / About Me
+I’m always learning and improving my web development skills.  
+Feel free to connect with me on GitHub or email me:  
 
-*Thank you for visiting my project!* 🌟
+**Email:**
+daruselamtaha55@gmail.com
+
+*Thank you for visiting my Vampire's Cookbook project!* 🌟
