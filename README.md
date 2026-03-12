@@ -1,8 +1,4 @@
-# 🧛‍♂️ Vampire's Cookbook 🍲
-
-Hi! I'm **Daruselam Taha** 👋  
-I’m a high school student exploring **web development** with a focus on **HTML and CSS**.  
-I love creating **fun, interactive, and visually engaging projects** that combine learning with creativity.
+# 🧛‍♂️ Vampire’s Cookbook 
 
 ## 🔮 About the Project
 **Vampire's Cookbook** is a **vampire-themed recipe web project**.  
