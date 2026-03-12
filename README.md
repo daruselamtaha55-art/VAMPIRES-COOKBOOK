@@ -1,4 +1,4 @@
-# 🧛‍♂️ Vampire’s Cookbook 
+# 🧛‍♂️Vampire’s Cookbook 
 
 ## 🔮 About the Project
 **Vampire's Cookbook** is a **vampire-themed recipe web project**.  
